@@ -1,0 +1,3 @@
+#!/bin/bash
+# GoldenDog Linux by Alexia Michelle <alexia@goldendoglinux.org>
+#DESCRIPTION="Work in Progress. Placeholder for now. - Alexia"
