@@ -1,0 +1,2 @@
+#!/bin/bash
+#DESCRIPTION="Just a dummy script to test the application. Ignore this. Alexia"
